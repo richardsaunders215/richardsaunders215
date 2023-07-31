@@ -1,4 +1,4 @@
-<h1>Hi, I'm Richard! <br/><a href="https://github.com/richardsaunders215">Cybersecurity Professional</a> and <a href="https://www.linkedin.com/in/richard-saunders/">Agency Operations Assistant</a></h1>
+<h1>Hi, I'm Richard! <br/><a href="https://github.com/richardsaunders215">AI & Cybersecurity Professional</a> and <a href="https://www.linkedin.com/in/richard-saunders/">Agency Operations Assistant</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
