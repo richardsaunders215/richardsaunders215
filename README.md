@@ -9,11 +9,14 @@
  
   
 
-<h2>📺 AI Sports Projects</h2>
+<h2>📺 Artificial Intelligence Projects</h2>
 
 - <b>Javascript</b>
   - [AI Football](https://github.com/richardsaunders215/AI-Football-Stats)
   - [AI Basketball](https://github.com/richardsaunders215/AI-Basketball-Stats)
+ 
+-  <b>AI Websites</b>
+  - [AI Football](https://github.com/richardsaunders215/AI-Football-Stats)
 
 <h2> 📜 Certifications</h2>
 
